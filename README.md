@@ -1,7 +1,7 @@
 <div>
 <h1>Olá!! Eu sou o Gustavo!!</h1>
 <p>Sou professor de escalada de dificuldade, motivado pelo sentimento de superação e segue um pouquinho mais sobre mim:</p>
-<p> Minha relação com a tecnologia se transformou depois do meu primeiro contato com python. Até então eu sabia o suficiente para navegar mas precisei aprender a programar em Python rapidinho pra tentar uma oportunidade de emprego melhor. E surpresa.. eu não passei haha! MASSSS mal sabia eu que ja estava com a pulga atrás da orelha!! hehe Mas é isso Python foi fazendo sentido e venho aprendendo com bastante com fluidez. Com um novo olhar para a tecnologia agora eu procuro diversificar meus conhecimentos. Mas eu tenho que confessar uma quedinha por linux e Python, vão sempre ter um lugarzinho no meu coração.</p>
+<p> Minha relação com a tecnologia se transformou depois do meu primeiro contato com python.
  <p>🔭 Atualmente estou participando do processo seletivo do Santander para a formação de Engenheiro de Dados. Uma trilha que já me trouxe muito aprendizado e a cada dia de estudos eu me apaixono um pouquinho mais na área.
  Estudo com o objetivo muito claro de fazer a diferença, quero ser motor de mudanças positivas. E o alcançe que a tecnologia proporciona foi um dos principais motivadores dessa transição de carreira.
  </p>
